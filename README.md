@@ -1,4 +1,4 @@
-# Kaggle Titanic Classification
+# Titanic Passenger Survival Prediction using ML
 
 This is my attempt at testing some Machine Learning algorithms using the Kaggle Titanic dataset. I use a Jupyter Notebook and go through the data analysis and prediction step by step. You can use this Notebook if you're a beginner in ML and want to get a first taste for doing data analysis with Kaggle datasets.
 
